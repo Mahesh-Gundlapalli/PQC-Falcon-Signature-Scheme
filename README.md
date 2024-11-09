@@ -104,13 +104,13 @@ Test Compress       : OK          (3.292 msec / execution)
 Test Signature      : OK        (102.022 msec / execution)
 ```
 
-## Profiling
+<!--- ## Profiling
 
 I included a makefile target to performing profiling on the code. If you type `make profile` on a Linux machine, you should obtain something along these lines:
 
 ![kcachegrind](https://tprest.github.io/images/kcachegrind_falcon.png)
 
-Make sure you have `pyprof2calltree` and `kcachegrind` installed on your machine, or it will not work.
+Make sure you have `pyprof2calltree` and `kcachegrind` installed on your machine, or it will not work. --->
 
 
 ## Author
@@ -118,13 +118,13 @@ Make sure you have `pyprof2calltree` and `kcachegrind` installed on your machine
 * **Thomas Prest** (thomas.prest@ens.fr)
 
 
-## Acknowledgements
+<!---## Acknowledgements
 
 Thank you to the following people for catching various bugs in the code:
 - Dan Middleton
 - Nadav Voloch
 - Dekel Shiran
-- Shlomi Dolev
+- Shlomi Dolev--->
 
 ## Disclaimer
 
